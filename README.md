@@ -32,6 +32,10 @@
 ## Flower.endswith('s')   : Checks if string end with a specific character and returns a boolean value
 
 # Screenshots of Results
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Strings-and-Control-Flow/blob/c14659a994eba096b5ff05d78d14a9aedb0d7e39/String%20and%20Control%20Flow%201.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Strings-and-Control-Flow/blob/c14659a994eba096b5ff05d78d14a9aedb0d7e39/String%20and%20Control%20Flow%202.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Strings-and-Control-Flow/blob/c14659a994eba096b5ff05d78d14a9aedb0d7e39/String%20and%20Control%20Flow%203.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Strings-and-Control-Flow/blob/c14659a994eba096b5ff05d78d14a9aedb0d7e39/String%20and%20Control%20Flow%204.PNG)
 
 # Key Observations / Lessons Learned
 ## - Validation Sensitivity: .isalpha() and .isdigit() returns False if there are spaces or mixed characters in the string
